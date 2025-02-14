@@ -63,7 +63,7 @@ async def verify_api_key(
         # Decode and verify JWT
         payload = jwt.decode(
             api_key,
-            "your-secret-key",  # Should be in config
+            "",  # Should be in config
             algorithms=["HS256"]
         )
 
