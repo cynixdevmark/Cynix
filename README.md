@@ -80,15 +80,6 @@ Create appropriate YAML files in the `config` directory:
 - `development.yaml`
 - `production.yaml`
 
-Required configuration values:
-```yaml
-solana_rpc_url: "your-rpc-url"
-redis_url: "your-redis-url"
-github_token: "your-github-token"
-twitter_bearer_token: "your-twitter-token"
-telegram_bot_token: "your-telegram-token"
-cynix_token_address: "your-token-address"
-```
 
 ## API Documentation
 
@@ -120,14 +111,6 @@ Analyzes influencer credibility and historical data.
 GET /api/v1/data/{data_type}
 ```
 Provides access to raw analysis data (requires token staking).
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'feat: Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## License
 
