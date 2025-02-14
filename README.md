@@ -1,10 +1,12 @@
 <div align="center">
  <img src="/cynix.png" alt="Cynix Logo" width="400px" />
 
+ [![Website](https://img.shields.io/badge/website-cynix.io-blue)](https://cynix.io/)
+ [![X(Twitter)](https://img.shields.io/badge/X-Cynix__io-black?logo=x)](https://x.com/Cynix__io)
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
  [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
  [![FastAPI](https://img.shields.io/badge/FastAPI-0.104.1-green.svg)](https://fastapi.tiangolo.com)
- 
+
 </div>
 
 Cynix is an advanced analytics platform that leverages AI to analyze Solana meme tokens, providing real-time insights through specialized AI agents. The platform includes token-gated premium features and comprehensive data analysis capabilities.
