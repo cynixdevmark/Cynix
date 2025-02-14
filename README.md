@@ -1,8 +1,6 @@
 <div align="center">
  <img src="/cynix.png" alt="Cynix Logo" width="400px" />
 
- # Cynix - AI-Powered Solana Meme Token Analytics Platform
-
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
  [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
  [![FastAPI](https://img.shields.io/badge/FastAPI-0.104.1-green.svg)](https://fastapi.tiangolo.com)
@@ -46,5 +44,5 @@ Cynix is an advanced analytics platform that leverages AI to analyze Solana meme
 ### Setup
 1. Clone the repository
 ```bash
-git clone https://github.com/cynixdevmark/cynix.git
+git clone https://github.com/cynixdevmark/Cynix.git
 cd cynix
